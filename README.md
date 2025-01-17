@@ -1,16 +1,16 @@
 # EdPDB
-Edpdb: A Multi-Functional Tool for Protein Structure Analysis
+EdPDB: A Multi-Functional Tool for Protein Structure Analysis
 
-EdPDB is a computer program to handle PDB (Brookhaven Protein Databank) format coordinate files.  It was written by X. Cai Zhang in Brian Matthews Lab at the University of Oregon. This repository is used for distribution of the Mac OS version of edPDB, and is maintained by Doug Juers. For the linux version of edPDB, please go [here.](https://github.com/cz-zhao-lab-ibp/edpdb) 
+EdPDB is a program to handle PDB (Brookhaven Protein Databank) format coordinate file(s). With EdPDB, a PDB file is treated as a small database, where information like distances, angles etc. within the file can be easily obtained.
 
 ## Documentation
 Please see the [Wiki](https://github.com/juerslab/software-edpdb/wiki) for this repository.
 
 ## Installation
-The executable included in this repository should run on Mac OS computers.
+The executable included in this repository should run on Mac OS computers. For the linux version, please check [here](https://github.com/cz-zhao-lab-ibp/edpdb).
 
 ## Help
-Please report bugs and/or fixes via email or via an issue with the repository.
+Please report bugs and/or fixes via email or via a GitHub issue with the repository.
 
 ## Reference
 Zhang, X-J., and Brian W. Matthews. "EDPDB: a multifunctional tool for protein structure analysis." Journal of applied crystallography 28.5 (1995): 624-630.
@@ -21,6 +21,6 @@ Zhang, X-J., and Brian W. Matthews. "EDPDB: a multifunctional tool for protein s
 
 email: <zhangc@ibp.ac.cn>
 
-#### Repository for Mac OS version
+#### For issues related to this repository and the Mac OS version:
 [Doug Juers](https://juerslab.github.io)
 email: <juersdh@whitman.edu>
