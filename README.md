@@ -1,5 +1,7 @@
-# edPDB
-edPDB is a computer program for editing pdb format files.  It was written by X. Cai Zhang in Brian Matthews Lab at the University of Oregon. This repository is used for distribution of the Mac OS version of edPDB, and is maintained by Doug Juers. For the linux version of edPDB, please go [here.](https://github.com/cz-zhao-lab-ibp/edpdb) 
+# EdPDB
+Edpdb: A Multi-Functional Tool for Protein Structure Analysis
+
+EdPDB is a computer program to handle PDB (Brookhaven Protein Databank) format coordinate files.  It was written by X. Cai Zhang in Brian Matthews Lab at the University of Oregon. This repository is used for distribution of the Mac OS version of edPDB, and is maintained by Doug Juers. For the linux version of edPDB, please go [here.](https://github.com/cz-zhao-lab-ibp/edpdb) 
 
 ## Utility
 edPDB can be used to perform **edits** and **calculations** on user **selected** atoms. Some simple examples are shown below. More extensive information is available in the [Wiki]( for this repository.
@@ -21,9 +23,15 @@ Calculation
 - calculate the moment of inertia 
 
 ## Installation
+The included executable should run on Mac OS computers.
 
 ## Help
+Please report bugs and/or fixes via email or via an issue with the repository.
 
+## Contact
+### Author
+&copy X. Cai Zhang. All Rights Reserved.
 
+### Repository for Mac OS version
 
 
