@@ -17,10 +17,11 @@ Zhang, X-J., and Brian W. Matthews. "EDPDB: a multifunctional tool for protein s
 
 ## Contact
 #### Author
-&copy [X. Cai Zhang](http://english.ibp.cas.cn/faculty/index_18316.html?json=http://www.ibp.cas.cn/sourcedb_ibp_cas/cn/ibpexport/EN_xsszmZ/202005/t20200519_5582960.json) All Rights Reserved.
+&copy; [X. Cai Zhang](http://english.ibp.cas.cn/faculty/index_18316.html?json=http://www.ibp.cas.cn/sourcedb_ibp_cas/cn/ibpexport/EN_xsszmZ/202005/t20200519_5582960.json) All Rights Reserved.
 
 email: <zhangc@ibp.ac.cn>
 
 #### For issues related to this repository and the Mac OS version:
-[Doug Juers](https://juerslab.github.io)
+[Doug Juers](https://juerslab.github.io)  
+
 email: <juersdh@whitman.edu>
