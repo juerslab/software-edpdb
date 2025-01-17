@@ -23,15 +23,17 @@ Calculation
 - calculate the moment of inertia 
 
 ## Installation
-The included executable should run on Mac OS computers.
+The executable included in this repository should run on Mac OS computers.
 
 ## Help
 Please report bugs and/or fixes via email or via an issue with the repository.
 
 ## Contact
-### Author
-&copy X. Cai Zhang. All Rights Reserved.
+#### Author
+&copy [X. Cai Zhang](http://english.ibp.cas.cn/faculty/index_18316.html?json=http://www.ibp.cas.cn/sourcedb_ibp_cas/cn/ibpexport/EN_xsszmZ/202005/t20200519_5582960.json) All Rights Reserved.
 
-### Repository for Mac OS version
 
+
+#### Repository for Mac OS version
+[Doug Juers](https://juerslab.github.io)
 
