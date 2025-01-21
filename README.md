@@ -8,7 +8,7 @@ Please see the [Wiki](https://github.com/juerslab/software-edpdb/wiki) for this 
 
 ## Installation
 
-The executable included in this repository should run on Mac OS computers. For the linux version, please check [here](https://github.com/cz-zhao-lab-ibp/edpdb).
+The executable included in this repository should run on Mac OS computers. It was compiled under Mac OS 15.2. (For the linux version, please check [here](https://github.com/cz-zhao-lab-ibp/edpdb).)
 The EDPDB program package consists of one program and number of accessary files. To run the executable "edpdb_v22", one needs to include the file  "edpdb.csh" in his/her ".login" file.  This "edpdb.csh" file defines the required logical names, etc.
 
 
